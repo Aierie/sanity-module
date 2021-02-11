@@ -48,9 +48,9 @@
     "upath": "^2.0.1"
   },
   "devDependencies": {
-    "@babel/plugin-transform-runtime": "7.12.10",
-    "@babel/preset-env": "7.12.11",
-    "@babel/preset-typescript": "7.12.7",
+    "@babel/plugin-transform-runtime": "7.12.15",
+    "@babel/preset-env": "7.12.16",
+    "@babel/preset-typescript": "7.12.16",
     "@nuxt/test-utils": "0.1.2",
     "@nuxt/types": "2.14.12",
     "@nuxt/typescript-build": "2.0.4",
